@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raj Thakur</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer </h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB0NDg3ZnJ2ZzJqNnZhOXp3aDQ3eWdpemZ5OWY2Z240bzFuaXNpYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
